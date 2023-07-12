@@ -9,4 +9,4 @@ for(let i=0;i<n-1;i++)
 			ans=str.charAt(i);
 		}
 	}
-alert(ans);
+window.alert(ans);
